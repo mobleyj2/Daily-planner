@@ -48,7 +48,9 @@
   n/a
 
   
-https://github.com/mobleyj2/Daily-planner.git)
+https://github.com/mobleyj2/Daily-planner.git
+
+https://mobleyj2.github.io/Daily-planner/
 
   mobleyj2@gmail.com
 
