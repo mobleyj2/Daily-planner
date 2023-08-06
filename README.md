@@ -48,13 +48,12 @@
   n/a
 
   
-  (http://github.com/https://github.com/mobleyj2/Daily-planner.git)
+https://github.com/mobleyj2/Daily-planner.git)
 
   mobleyj2@gmail.com
 
   
 
 ---
-
 
 
